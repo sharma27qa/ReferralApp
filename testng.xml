@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+	  <classes>
+		 <!--class name="login.Userlogin"></class>
+		  <class name="tools.Users"></class>
+		  <class name="tools.Roles"></class>
+		  <class name="tools.Providers"></class>
+		  <class name="tools.Insurance"></class>
+		  <class name="tools.Provider_Role"></class>
+		<class name="inboundReferrals.Tabs"></class>
+		 <class name="login.Logout"></class>
+		   <class name="outboundReferrals.Preauth_tab"></class>
+		   <class name="tools.Custom_Codeset"></class>
+		      <class name="outboundReferrals.Tabs"></class>
+		          <class name="inboundReferrals.Workflow"></class>
+		         <class name="login.CreateAccount"></class-->
+		           <class name="outboundReferrals.Workflow"></class>
+	  </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
